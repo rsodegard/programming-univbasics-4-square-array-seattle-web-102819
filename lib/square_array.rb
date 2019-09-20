@@ -5,5 +5,5 @@ def square_array(array)
     puts array[counter].Math.exp(2)  
     counter += 1 
   end 
-  
+
 end
