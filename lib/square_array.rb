@@ -3,7 +3,9 @@ def square_array(array)
   
   while counter < array.length do 
     element = array[counter]
-    puts element ** 2
+    element ** 2
+    puts element
     counter += 1 
   end 
+  
 end
